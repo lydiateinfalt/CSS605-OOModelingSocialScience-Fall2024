@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['time.py', 'point circle time.py', 'point line classes.py']
+recent_files = ['population dynamics DiffEq.py', 'population dynamics v02.py']
 
 [main]
 version = 0.2.0
